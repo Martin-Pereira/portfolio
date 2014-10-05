@@ -1,0 +1,62 @@
+# Ignores for this project only #
+#################################
+
+
+
+
+
+# Martins Overides #
+###################
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+*.psd
+_temp/
+*.sublime-project
+*.sublime-workspace
+_sublime/
+
+# General Overides #
+###################
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+
+
+# Thumbnails
+############
+._*
+
+# Files that might appear on external disk
+##########################################
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+#####################################################
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+
+
+# workspace files are user-specific
+*.sublime-workspace
+
+# project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using SublimeText
+# *.sublime-project
+
+#sftp configuration file
+sftp-config.json
+
+
+
